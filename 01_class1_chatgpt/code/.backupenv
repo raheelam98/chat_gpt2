@@ -1,0 +1,6 @@
+MY_NAME = "Raheela"
+
+OPENAI_API_KEY = ""
+GOOGLE_API = ""
+HF_API = ""
+SERPER_API_KEY = ""
